@@ -68,8 +68,9 @@ src.git = "https://github.com/einzigartigerName/spicetify-history"
 fetch.git = "https://github.com/einzigartigerName/spicetify-history"
 
 [genreSrc]
-src.git = "https://github.com/Shinyhero36/Spicetify-Genre"
-fetch.git = "https://github.com/Shinyhero36/Spicetify-Genre"
+src.git = "https://github.com/Vexcited/better-spotify-genres.git"
+src.branch = "build"
+fetch.git = "https://github.com/Vexcited/better-spotify-genres.git"
 
 [lastfmSrc]
 src.git = "https://github.com/LucasBares/spicetify-last-fm"

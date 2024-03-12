@@ -41,7 +41,7 @@ with source; let
   };
   genre = {
     src = genreSrc;
-    filename = "genre.js";
+    filename = "spotifyGenres.js";
   };
   lastfm = {
     src = "${lastfmSrc}/src";
