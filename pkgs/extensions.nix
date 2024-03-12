@@ -217,6 +217,7 @@ in
   // mkExtAlias "powerBar.js" powerBar
   // mkExtAlias "groupSession.js" groupSession
   // mkExtAlias "brokenAdblock.js" brokenAdblock # this is old but you can still use it if you need
+  // mkExtAlias "genre" genre
   // appendJS groupSession
   // appendJS powerBar
   // appendJS seekSong
